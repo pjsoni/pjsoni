@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m Pravesh Soni
-
+- 🤔 I’m on Twitter https://twitter.com/pjsoni
+- 📫 How to reach me: https://pravesh.me/about/
 <!--
 **pjsoni/pjsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
