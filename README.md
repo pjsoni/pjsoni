@@ -3,7 +3,7 @@
 - 🔭 I’m Pravesh Soni
 - 🤔 I’m on Twitter https://twitter.com/pjsoni
 - I'm on LinkedIn https://linkedin.com/in/pjsoni
-- 📫 How to reach me: https://pravesh.me/about/
+- 📫 How to reach me: https://pravesh.me/about.html
 <!--
 **pjsoni/pjsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
